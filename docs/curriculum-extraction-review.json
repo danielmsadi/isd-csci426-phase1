@@ -1,0 +1,3081 @@
+[
+  {
+    "programId": "engineering-bachelor-of-science-in-biomedical-engineering",
+    "kind": "plan",
+    "courseRows": 38,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 19,
+        "extracted": 19
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 19,
+        "extracted": 19
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 0,
+        "extracted": 7
+      }
+    ]
+  },
+  {
+    "programId": "engineering-bachelor-of-science-in-biomedical-engineering",
+    "kind": "contract",
+    "courseRows": 41,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-computer-engineering",
+    "kind": "contract",
+    "courseRows": 41,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-electrical-engineering",
+    "kind": "contract",
+    "courseRows": 42,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-computer-engineering",
+    "kind": "plan",
+    "courseRows": 41,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "First Year",
+        "semester": "Summer Semester",
+        "published": 6,
+        "extracted": 6
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      }
+    ]
+  },
+  {
+    "programId": "engineering-electrical-engineering",
+    "kind": "plan",
+    "courseRows": 42,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "First Year",
+        "semester": "Summer Semester",
+        "published": 6,
+        "extracted": 6
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Second Year",
+        "semester": "Summer Semester",
+        "published": 3,
+        "extracted": 3
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      }
+    ]
+  },
+  {
+    "programId": "engineering-electronics-engineering",
+    "kind": "plan",
+    "courseRows": 43,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "First Year",
+        "semester": "Summer Semester",
+        "published": 6,
+        "extracted": 6
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Second Year",
+        "semester": "Summer Semester",
+        "published": 3,
+        "extracted": 3
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      }
+    ]
+  },
+  {
+    "programId": "engineering-mechanical-engineering",
+    "kind": "contract",
+    "courseRows": 41,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-mechanical-engineering",
+    "kind": "plan",
+    "courseRows": 41,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "First Year",
+        "semester": "Summer Semester",
+        "published": 6,
+        "extracted": 6
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      }
+    ]
+  },
+  {
+    "programId": "engineering-surveying-engineering",
+    "kind": "plan",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "First Year",
+        "semester": "Summer Semester",
+        "published": 6,
+        "extracted": 6
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      }
+    ]
+  },
+  {
+    "programId": "engineering-electronics-engineering",
+    "kind": "contract",
+    "courseRows": 43,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-surveying-engineering",
+    "kind": "contract",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-master-of-science-in-computer-and-communication-engineering",
+    "kind": "contract",
+    "courseRows": 16,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-communications-engineering",
+    "kind": "contract",
+    "courseRows": 42,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-industrial-engineering",
+    "kind": "contract",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-master-of-science-in-electrical-engineering",
+    "kind": "contract",
+    "courseRows": 22,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-communications-engineering",
+    "kind": "plan",
+    "courseRows": 42,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "First Year",
+        "semester": "Summer Semester",
+        "published": 6,
+        "extracted": 6
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      }
+    ]
+  },
+  {
+    "programId": "engineering-master-of-science-in-electrical-engineering",
+    "kind": "plan",
+    "courseRows": 22,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 13,
+        "extracted": 13
+      }
+    ]
+  },
+  {
+    "programId": "engineering-master-of-science-in-computer-and-communication-engineering",
+    "kind": "plan",
+    "courseRows": 16,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 12,
+        "extracted": 12
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 12,
+        "extracted": 12
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "engineering-industrial-engineering",
+    "kind": "plan",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "First Year",
+        "semester": "Summer Semester",
+        "published": 6,
+        "extracted": 6
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      }
+    ]
+  },
+  {
+    "programId": "engineering-master-of-science-in-electronics-engineering",
+    "kind": "contract",
+    "courseRows": 26,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-master-of-science-in-biomedical-engineering",
+    "kind": "contract",
+    "courseRows": 21,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-master-of-science-in-electronics-engineering",
+    "kind": "plan",
+    "courseRows": 22,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 12,
+        "extracted": 12
+      }
+    ]
+  },
+  {
+    "programId": "engineering-master-of-science-in-mechanical-engineering",
+    "kind": "contract",
+    "courseRows": 21,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-master-of-science-in-surveying-engineering",
+    "kind": "contract",
+    "courseRows": 22,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "engineering-master-of-science-in-biomedical-engineering",
+    "kind": "plan",
+    "courseRows": 21,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 13,
+        "extracted": 13
+      }
+    ]
+  },
+  {
+    "programId": "engineering-master-of-science-in-mechanical-engineering",
+    "kind": "plan",
+    "courseRows": 21,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 12,
+        "extracted": 12
+      }
+    ]
+  },
+  {
+    "programId": "engineering-master-of-science-in-surveying-engineering",
+    "kind": "plan",
+    "courseRows": 20,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 12,
+        "extracted": 12
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 12,
+        "extracted": 12
+      }
+    ]
+  },
+  {
+    "programId": "engineering-master-of-science-in-industrial-engineering",
+    "kind": "plan",
+    "courseRows": 20,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 13,
+        "extracted": 13
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 13,
+        "extracted": 13
+      }
+    ]
+  },
+  {
+    "programId": "engineering-master-of-science-in-industrial-engineering",
+    "kind": "contract",
+    "courseRows": 20,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "business-accounting",
+    "kind": "plan",
+    "courseRows": 30,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "business-accounting",
+    "kind": "contract",
+    "courseRows": 30,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "business-economics",
+    "kind": "contract",
+    "courseRows": 30,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "business-financial-sciences",
+    "kind": "contract",
+    "courseRows": 30,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "business-financial-sciences",
+    "kind": "plan",
+    "courseRows": 30,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "business-economics",
+    "kind": "plan",
+    "courseRows": 30,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "business-business-management",
+    "kind": "contract",
+    "courseRows": 30,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "business-hotel-and-tourism-management",
+    "kind": "contract",
+    "courseRows": 30,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "business-hotel-and-tourism-management",
+    "kind": "plan",
+    "courseRows": 30,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "business-business-management",
+    "kind": "plan",
+    "courseRows": 30,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "business-management-information-systems",
+    "kind": "contract",
+    "courseRows": 30,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "business-management-information-systems",
+    "kind": "plan",
+    "courseRows": 30,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "business-marketing",
+    "kind": "plan",
+    "courseRows": 30,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "business-marketing",
+    "kind": "contract",
+    "courseRows": 30,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "business-master-of-business-administration",
+    "kind": "plan",
+    "courseRows": 25,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 12,
+        "extracted": 12
+      }
+    ]
+  },
+  {
+    "programId": "business-master-of-business-administration",
+    "kind": "contract",
+    "courseRows": 25,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "business-bachelor-of-business-administration-in-international-business-management",
+    "kind": "contract",
+    "courseRows": 52,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "business-master-of-business-administration-liu-hochschule-worms-dual-degree",
+    "kind": "plan",
+    "courseRows": 15,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 12,
+        "extracted": 12
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 0,
+        "extracted": 8
+      }
+    ]
+  },
+  {
+    "programId": "pharmacy-doctor-of-pharmacy",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "business-master-of-business-administration-liu-hochschule-worms-dual-degree",
+    "kind": "contract",
+    "courseRows": 16,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "pharmacy-pharmacy",
+    "kind": "plan",
+    "courseRows": 65,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Third Year",
+        "semester": "Summer Semester",
+        "published": 6,
+        "extracted": 6
+      },
+      {
+        "year": "Fourth Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Fourth Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Fourth Year",
+        "semester": "Summer Semester",
+        "published": 6,
+        "extracted": 6
+      },
+      {
+        "year": "Fifth Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Fifth Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "pharmacy-doctor-of-pharmacy",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "pharmacy-pharmacy",
+    "kind": "contract",
+    "courseRows": 46,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "business-bachelor-of-business-administration-in-international-business-management",
+    "kind": "plan",
+    "courseRows": 50,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 19,
+        "extracted": 19
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "education-bachelor-in-basic-education-mathematics",
+    "kind": "contract",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-bachelor-in-basic-education-english",
+    "kind": "plan",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "education-bachelor-in-basic-education-english",
+    "kind": "contract",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-bachelor-in-basic-education-sciences",
+    "kind": "contract",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-bachelor-in-basic-education-sciences",
+    "kind": "plan",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "education-bachelor-of-teaching-english-as-a-foreign-language",
+    "kind": "plan",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 12,
+        "extracted": 12
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "education-bachelor-of-education-in-early-childhood-education",
+    "kind": "contract",
+    "courseRows": 36,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-bachelor-of-translation-and-interpretation",
+    "kind": "contract",
+    "courseRows": 34,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-bachelor-of-education-in-early-childhood-education",
+    "kind": "plan",
+    "courseRows": 36,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "education-bachelor-of-translation-and-interpretation",
+    "kind": "plan",
+    "courseRows": 34,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      }
+    ]
+  },
+  {
+    "programId": "education-master-of-education-in-teaching-english-as-a-foreign-language",
+    "kind": "contract",
+    "courseRows": 22,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-master-of-education-in-educational-management",
+    "kind": "contract",
+    "courseRows": 22,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-master-of-education-in-educational-management",
+    "kind": "plan",
+    "courseRows": 20,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 12,
+        "extracted": 12
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 12,
+        "extracted": 12
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 6,
+        "extracted": 6
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-music",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-teaching-diploma-in-computer-science",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-teaching-diploma-in-music",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 14,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-computer-science",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 14,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-drama-and-performing-arts",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-teaching-diploma-in-drama-and-performing-arts",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 14,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "education-bachelor-in-basic-education-mathematics",
+    "kind": "plan",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 15,
+        "extracted": 15
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-economics",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-teaching-diploma-in-economics",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 14,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-languages",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 14,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-languages",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-master-of-education-in-teaching-english-as-a-foreign-language",
+    "kind": "plan",
+    "courseRows": 20,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 12,
+        "extracted": 12
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 12,
+        "extracted": 12
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 6,
+        "extracted": 6
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-mathematics",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-teaching-diploma-in-mathematics",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 14,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-physical-and-sports-education",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-teaching-diploma-in-physical-and-sports-education",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 14,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-sciences",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 14,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-sciences",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-bachelor-of-teaching-english-as-a-foreign-language",
+    "kind": "contract",
+    "courseRows": 37,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-teaching-diploma-in-social-studies",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 14,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-sociology",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-teaching-diploma-in-social-studies",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-teaching-diploma-in-teaching-arts",
+    "kind": "contract",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-advertising",
+    "kind": "contract",
+    "courseRows": 33,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "education-teaching-diploma-in-sociology",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 14,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-advertising",
+    "kind": "plan",
+    "courseRows": 34,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-biochemistry",
+    "kind": "plan",
+    "courseRows": 34,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      }
+    ]
+  },
+  {
+    "programId": "education-teaching-diploma-in-teaching-arts",
+    "kind": "plan",
+    "courseRows": 10,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 14,
+        "extracted": 14
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 14,
+        "extracted": 14
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-biology",
+    "kind": "contract",
+    "courseRows": 71,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-biochemistry",
+    "kind": "contract",
+    "courseRows": 69,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-chemistry",
+    "kind": "contract",
+    "courseRows": 40,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-biomedical-science",
+    "kind": "plan",
+    "courseRows": 38,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-biomedical-science",
+    "kind": "contract",
+    "courseRows": 73,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-chemistry",
+    "kind": "plan",
+    "courseRows": 40,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-biology",
+    "kind": "plan",
+    "courseRows": 36,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-information-technology",
+    "kind": "contract",
+    "courseRows": 71,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-computer-science",
+    "kind": "contract",
+    "courseRows": 71,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-information-technology",
+    "kind": "plan",
+    "courseRows": 29,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 19,
+        "extracted": 19
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 12,
+        "extracted": 12
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-computer-science",
+    "kind": "plan",
+    "courseRows": 29,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 19,
+        "extracted": 19
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 12,
+        "extracted": 12
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-food-science-technology",
+    "kind": "contract",
+    "courseRows": 72,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-food-science-technology",
+    "kind": "plan",
+    "courseRows": 33,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-interior-design",
+    "kind": "contract",
+    "courseRows": 29,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-graphic-design",
+    "kind": "plan",
+    "courseRows": 33,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-interior-design",
+    "kind": "plan",
+    "courseRows": 35,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-journalism",
+    "kind": "contract",
+    "courseRows": 33,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-journalism",
+    "kind": "plan",
+    "courseRows": 34,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-graphic-design",
+    "kind": "contract",
+    "courseRows": 28,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-mathematics",
+    "kind": "plan",
+    "courseRows": 30,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-nutrition-dietetics",
+    "kind": "contract",
+    "courseRows": 73,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-nutrition-dietetics",
+    "kind": "plan",
+    "courseRows": 32,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-public-relations",
+    "kind": "plan",
+    "courseRows": 34,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-physics",
+    "kind": "contract",
+    "courseRows": 33,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-mathematics",
+    "kind": "contract",
+    "courseRows": 30,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-physics",
+    "kind": "plan",
+    "courseRows": 32,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 16,
+        "extracted": 16
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 17,
+        "extracted": 17
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 15,
+        "extracted": 15
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 16,
+        "extracted": 16
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-radio-tv",
+    "kind": "contract",
+    "courseRows": 34,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-public-relations",
+    "kind": "contract",
+    "courseRows": 33,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-radio-tv",
+    "kind": "plan",
+    "courseRows": 34,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Fall Semester",
+        "published": 18,
+        "extracted": 18
+      },
+      {
+        "year": "Third Year",
+        "semester": "Spring Semester",
+        "published": 18,
+        "extracted": 18
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-master-s-of-science-in-computer-science",
+    "kind": "contract",
+    "courseRows": 24,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-master-s-of-science-in-computer-science",
+    "kind": "plan",
+    "courseRows": 24,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 9,
+        "extracted": 9
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-master-s-of-science-in-mathematics",
+    "kind": "contract",
+    "courseRows": 29,
+    "unparsedPages": 1,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-master-s-of-science-in-food-technology",
+    "kind": "contract",
+    "courseRows": 20,
+    "unparsedPages": 0,
+    "semesterPlanValidated": null,
+    "terms": []
+  },
+  {
+    "programId": "arts-sciences-master-s-of-science-in-food-technology",
+    "kind": "plan",
+    "courseRows": 20,
+    "unparsedPages": 0,
+    "semesterPlanValidated": true,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 10,
+        "extracted": 10
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 10,
+        "extracted": 10
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 7,
+        "extracted": 7
+      }
+    ]
+  },
+  {
+    "programId": "arts-sciences-master-s-of-science-in-mathematics",
+    "kind": "plan",
+    "courseRows": 26,
+    "unparsedPages": 1,
+    "semesterPlanValidated": false,
+    "terms": [
+      {
+        "year": "First Year",
+        "semester": "Fall Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "First Year",
+        "semester": "Spring Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "Second Year",
+        "semester": "Fall Semester",
+        "published": 9,
+        "extracted": 9
+      },
+      {
+        "year": "Second Year",
+        "semester": "Spring Semester",
+        "published": 9,
+        "extracted": 9
+      }
+    ]
+  }
+]

@@ -1,0 +1,692 @@
+.editor-fieldset {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  min-width: 0;
+}
+.grade-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.grade-toolbar input {
+  max-width: 330px;
+}
+.assessment-row {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr auto;
+  gap: 16px;
+  align-items: end;
+  padding: 18px 0;
+  border-bottom: 1px solid #e1e7ec;
+}
+.assessment-row .field {
+  margin: 0;
+}
+.weight-warning,
+.score-error {
+  color: #9b4d20;
+}
+.weight-valid {
+  color: #197359;
+}
+.gradebook-table {
+  max-width: 100%;
+}
+.gradebook-table input {
+  min-width: 85px;
+  width: 100px;
+}
+.gradebook-table small {
+  display: block;
+  margin-top: 5px;
+  white-space: normal;
+}
+.gradebook-table th {
+  min-width: 100px;
+}
+@media (max-width: 700px) {
+  .assessment-row {
+    grid-template-columns: 1fr 1fr;
+  }
+  .assessment-row .field:first-child {
+    grid-column: 1/-1;
+  }
+}
+.portal-shell {
+  background: var(--background);
+  min-height: 100vh;
+}
+.portal-shell .utility-bar {
+  background: var(--navy);
+  letter-spacing: 1.1px;
+  font-size: 10px;
+}
+.portal-shell .site-header {
+  border-bottom: 1px solid #e1e6e9;
+  box-shadow: var(--shadow-soft);
+}
+.portal-shell .identity-mark {
+  width: 37px;
+  height: 43px;
+}
+.portal-shell .identity b {
+  font-size: 30px;
+}
+.portal-shell .identity small {
+  font-size: 8px;
+  letter-spacing: 1.2px;
+}
+.portal-shell .main {
+  max-width: 1320px;
+  padding-top: 24px;
+}
+.portal-context {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  font-size: 11px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.portal-context span {
+  border-left: 1px solid #c8d1da;
+  padding-left: 16px;
+}
+.portal-context a:last-child {
+  margin-left: auto;
+}
+.portal-shell .connection-note {
+  border: 1px solid #dce4e9;
+  border-left: 3px solid #7890a2;
+  background: var(--background);
+  color: var(--blue);
+  border-radius: 6px;
+  padding: 13px 17px;
+  font-size: 12px;
+}
+.portal-shell .page-heading {
+  padding: 15px 0 6px;
+}
+.portal-shell .page-heading h1 {
+  font-size: clamp(27px, 3vw, 39px);
+  letter-spacing: -1.5px;
+}
+.portal-shell .card,
+.portal-shell .stat {
+  border: 1px solid #e0e5eb;
+  border-radius: 12px;
+  box-shadow: var(--shadow-soft);
+}
+.portal-shell .card-heading {
+  padding: 23px 25px;
+}
+.portal-shell .card-heading h2 {
+  font-size: 17px;
+}
+.portal-shell .welcome-banner {
+  background: linear-gradient(115deg, var(--navy), var(--blue));
+  border-radius: 14px;
+}
+.portal-shell .banner-content h2 {
+  font-size: 36px;
+  font-weight: 500;
+  letter-spacing: -1.2px;
+}
+.portal-shell .stat strong {
+  font-weight: 500;
+  font-size: 31px;
+}
+.portal-shell .empty {
+  min-height: 190px;
+  padding: 40px 24px;
+  background: radial-gradient(ellipse at center, #f4f7f9, white 70%);
+}
+.portal-shell .empty svg {
+  background: var(--background);
+  box-sizing: content-box;
+  padding: 14px;
+  border-radius: 50%;
+  color: var(--muted);
+}
+.portal-shell .empty p {
+  max-width: 440px;
+  margin: 16px auto 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+.portal-shell .field > span {
+  color: var(--blue);
+  font-weight: 600;
+}
+.portal-shell input,
+.portal-shell select,
+.portal-shell textarea {
+  border-color: #d6dfe6;
+  border-radius: 7px;
+}
+.portal-shell .padded {
+  padding: 25px;
+}
+.portal-shell .button {
+  border-radius: 7px;
+  transition:
+    background 0.2s,
+    box-shadow 0.2s;
+}
+.portal-shell .button.primary {
+  background: var(--blue);
+}
+.portal-shell .button.primary:hover:not(:disabled) {
+  background: var(--blue);
+  box-shadow: var(--shadow-soft);
+}
+.portal-shell th {
+  background: var(--background);
+  font-size: 10px;
+  letter-spacing: 0.7px;
+}
+.portal-shell td {
+  font-size: 12px;
+}
+.portal-shell tbody tr:hover {
+  background: var(--background);
+}
+.portal-shell .dropdown-panel {
+  padding: 9px;
+  border-radius: 10px;
+  box-shadow: var(--shadow-raised);
+}
+.portal-shell .dropdown-panel a {
+  border-radius: 5px;
+  padding: 12px;
+}
+.portal-shell .dropdown-panel a.active {
+  background: var(--background);
+  color: var(--blue);
+}
+.portal-shell .badge {
+  border: 1px solid currentColor;
+  font-size: 10px;
+}
+.table-pagination {
+  padding: 14px 24px;
+  border-top: 1px solid #e7ebf1;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--muted);
+  font-size: 11px;
+}
+.table-pagination > span {
+  margin-right: auto;
+}
+.table-pagination button {
+  min-width: 70px;
+}
+.form-required {
+  color: var(--muted);
+  font-size: 11px;
+  margin-bottom: 18px;
+}
+.schedule-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  margin: 20px 0;
+}
+.schedule-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+  padding: 24px;
+}
+.schedule-course {
+  border: 1px solid #e0e5eb;
+  border-left: 3px solid #42647d;
+  border-radius: 7px;
+  padding: 24px;
+}
+.schedule-course dl {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  gap: 10px;
+  font-size: 12px;
+}
+.schedule-course dd {
+  margin: 0;
+}
+.auth-story {
+  background: linear-gradient(140deg, var(--navy), var(--blue));
+}
+.auth-story .identity {
+  color: white;
+}
+.auth-story .identity b {
+  color: white;
+}
+.auth-project-note {
+  font-size: 12px;
+  padding: 12px 0;
+  color: var(--muted);
+}
+@media (max-width: 700px) {
+  .portal-context {
+    flex-wrap: wrap;
+    font-size: 10px;
+  }
+  .portal-context a:last-child {
+    margin-left: 0;
+  }
+  .portal-shell .main {
+    padding: 18px 16px;
+  }
+  .portal-shell .card-heading,
+  .portal-shell .padded {
+    padding: 20px;
+  }
+  .portal-shell .banner-content h2 {
+    font-size: 28px;
+  }
+  .schedule-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .table-pagination {
+    flex-wrap: wrap;
+  }
+  .portal-shell .utility-bar span:last-child {
+    display: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .portal-shell * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+.management-tabs {
+  display: flex;
+  gap: 6px;
+  padding: 6px;
+  margin-bottom: 24px;
+  background: var(--background);
+  border: 1px solid #dce5ed;
+  border-radius: 12px;
+  flex-wrap: wrap;
+}
+.management-tabs button {
+  border: 0;
+  background: transparent;
+  color: var(--blue);
+  padding: 12px 18px;
+  border-radius: 8px;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+.management-tabs button[aria-selected="true"] {
+  background: var(--navy);
+  color: white;
+  box-shadow: var(--shadow-soft);
+}
+.management-tabs button:focus-visible {
+  outline: 3px solid #6d98bc;
+  outline-offset: 2px;
+}
+[role="tabpanel"][hidden] {
+  display: none !important;
+}
+[role="tabpanel"] {
+  min-width: 0;
+}
+.form-section-heading {
+  grid-column: 1 / -1;
+  margin: 12px 0 0;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #dce5ed;
+  color: var(--blue);
+}
+.profile-details {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px 32px;
+  margin: 0;
+}
+.profile-details dt {
+  color: var(--muted);
+  font-size: 0.8rem;
+  margin-bottom: 6px;
+}
+.profile-details dd {
+  color: var(--blue);
+  font-weight: 600;
+  margin: 0;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.academic-timeline {
+  list-style: none;
+  padding: 24px;
+  margin: 0;
+}
+.academic-timeline li {
+  position: relative;
+  display: grid;
+  grid-template-columns: 150px minmax(0, 1fr);
+  gap: 24px;
+  padding: 4px 0 26px 24px;
+  border-left: 2px solid #dce5ed;
+}
+.academic-timeline li::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  border: 3px solid white;
+  background: var(--blue);
+  position: absolute;
+  top: 6px;
+  left: -9px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 1px #dce5ed;
+}
+.academic-timeline time {
+  font-weight: 600;
+  color: var(--blue);
+}
+.academic-timeline h3 {
+  margin: 0 0 10px;
+}
+.academic-timeline li:last-child {
+  padding-bottom: 0;
+}
+.management-disclosure {
+  background: white;
+  border: 1px solid #dce5ed;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+}
+.management-disclosure > summary {
+  cursor: pointer;
+  color: var(--blue);
+  font-weight: 600;
+  padding-bottom: 12px;
+}
+@media (max-width: 600px) {
+  .management-tabs button {
+    flex: 1 1 auto;
+    padding: 10px 12px;
+    font-size: 0.8rem;
+  }
+  .profile-details {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .academic-timeline li {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 10px;
+  }
+}
+
+/* Portal variants use the same tokens as public and authentication surfaces. */
+.portal-shell {
+  background: var(--background);
+}
+.portal-shell .site-header {
+  background: var(--surface-subtle);
+  border-color: var(--line);
+}
+.portal-shell .card,
+.portal-shell .stat {
+  background: var(--surface);
+  border-color: var(--line);
+}
+.portal-shell .empty {
+  background: radial-gradient(
+    ellipse at center,
+    var(--surface-subtle),
+    var(--surface) 75%
+  );
+}
+.portal-shell input,
+.portal-shell select,
+.portal-shell textarea {
+  border-color: var(--control-border);
+}
+.portal-shell input:focus,
+.portal-shell select:focus,
+.portal-shell textarea:focus {
+  border-color: var(--focus);
+}
+.portal-shell .button.primary {
+  background: var(--blue);
+}
+.portal-shell .button.primary:hover:not(:disabled) {
+  background: var(--navy);
+}
+.portal-shell th,
+.management-tabs {
+  background: var(--background);
+}
+.management-tabs button[aria-selected="true"] {
+  background: var(--blue);
+  box-shadow: inset 0 -2px var(--gold);
+}
+.management-tabs button:focus-visible {
+  outline-color: var(--focus);
+}
+.form-section-heading {
+  border-color: var(--line);
+  color: var(--navy);
+}
+.academic-timeline li {
+  border-color: var(--line);
+}
+.academic-timeline li::before {
+  background: var(--gold);
+}
+/* Light portal presentation. Keep all grids and responsive breakpoints intact. */
+.portal-shell .utility-bar,
+.portal-shell .site-header {
+  background: var(--surface);
+  color: var(--muted);
+  border-color: var(--line);
+  box-shadow: inset 0 -1px var(--line);
+}
+.portal-shell .page-heading h1 {
+  font-weight: 650;
+  letter-spacing: -1px;
+}
+.portal-shell .card,
+.portal-shell .stat {
+  background: var(--surface);
+  border-radius: 16px;
+  box-shadow: var(--shadow-soft);
+  border-color: var(--line);
+}
+.portal-shell .card-heading h2 {
+  font-size: 18px;
+  font-weight: 650;
+}
+.portal-shell .card-heading {
+  border-bottom: 1px solid var(--line);
+}
+.portal-shell .welcome-banner,
+.auth-story {
+  background: #eceff4;
+  color: var(--text);
+  box-shadow:
+    inset 0 0 0 1px #dce1e9,
+    var(--shadow-soft);
+}
+.portal-shell .welcome-banner {
+  border-radius: 18px;
+}
+.portal-shell .banner-content h2 {
+  color: var(--navy);
+  font-weight: 550;
+}
+.portal-shell .banner-content p {
+  color: var(--muted);
+}
+.portal-shell .button.primary {
+  background: var(--blue);
+  color: #fff;
+}
+.portal-shell .button.primary:hover:not(:disabled) {
+  background: var(--button-hover);
+  box-shadow: var(--shadow-soft);
+}
+.portal-shell .empty {
+  background: var(--surface);
+}
+.portal-shell .empty svg {
+  background: var(--surface-subtle);
+  color: #63758d;
+}
+.portal-shell .connection-note {
+  background: #edf0f4;
+  color: var(--muted);
+  border-color: var(--line);
+  border-left-color: var(--gold);
+}
+.portal-shell th {
+  background: var(--surface-subtle);
+  color: var(--blue);
+  letter-spacing: 0.4px;
+}
+.portal-shell td {
+  font-size: 13px;
+  line-height: 1.75;
+}
+.portal-shell tbody tr:hover,
+.portal-shell tbody tr:hover td {
+  background: #f0f2f5;
+}
+.portal-shell input,
+.portal-shell select,
+.portal-shell textarea {
+  background-color: var(--surface);
+  border-radius: 9px;
+}
+.portal-shell input[readonly],
+.portal-shell input:disabled,
+.portal-shell select:disabled {
+  background-color: var(--surface-subtle);
+}
+.portal-shell .dropdown-panel {
+  background: var(--surface);
+  box-shadow: var(--shadow-raised);
+}
+.management-tabs {
+  background: #e9ecf1;
+  border-color: var(--line);
+  border-radius: 12px;
+}
+.management-tabs button {
+  color: var(--muted);
+}
+.management-tabs button[aria-selected="true"] {
+  background: var(--surface);
+  color: var(--blue);
+  box-shadow:
+    inset 0 -2px var(--gold),
+    var(--shadow-soft);
+}
+.management-tabs button:hover:not([aria-selected="true"]) {
+  background: #f2f3f6;
+  color: var(--blue);
+}
+.form-section-heading {
+  color: var(--blue);
+  border-color: var(--line);
+  font-weight: 650;
+}
+.profile-details dt {
+  color: var(--muted);
+}
+.profile-details dd {
+  color: var(--text);
+  line-height: 1.6;
+}
+.auth-story .identity,
+.auth-story .identity b {
+  color: var(--navy);
+}
+.auth-story .identity small {
+  color: var(--muted);
+}
+@media (max-width: 900px) {
+  .portal-shell .nav-shell nav {
+    background: var(--surface);
+  }
+}
+.portal-shell .search input {
+  background: transparent;
+}
+/* Gradebook entry and publication review share the light management palette. */
+.gradebook-table {
+  max-height: 65vh;
+}
+.gradebook-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+.gradebook-table th:first-child {
+  position: sticky;
+  left: 0;
+  background: var(--surface);
+  z-index: 1;
+  min-width: 170px;
+}
+.gradebook-table thead th:first-child {
+  z-index: 3;
+  background: var(--surface-subtle);
+}
+.gradebook-table td {
+  border-right: 1px solid var(--line);
+  vertical-align: top;
+}
+.gradebook-table input[aria-invalid="true"] {
+  border-color: #923d36;
+}
+.missing-score {
+  color: var(--gold-ink);
+}
+.publication-assessments {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
+  gap: 18px;
+}
+.publication-assessment {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 20px;
+  background: var(--surface);
+}
+.publication-assessment h3 {
+  margin-bottom: 8px;
+}
+.publication-assessment p {
+  font-size: 12px;
+}
+.publication-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin: 20px 0;
+  color: var(--muted);
+}
+.publication-targets {
+  max-height: 220px;
+  overflow: auto;
+  padding-left: 24px;
+  line-height: 1.8;
+}

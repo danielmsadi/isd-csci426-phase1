@@ -1,0 +1,9 @@
+# Finance management: three forms
+
+The Finance page has Course Credit Pricing, Record Cash Payment and Financial Aid. One shared student/semester selection scopes the latter two. Old finance query URLs continue to load this page. Installment and receipt history remain read-only disclosures. Registration-only overrides use a compact account action and confirmed dialog, not a fourth form.
+
+Existing adapter/endpoints are unchanged: PUT /pricing/majors (majorId, rate); POST /payments/cash (studentId, semesterId, installmentId, amount, date, reference, method Cash); PATCH /requests/:id/decision (studentId, semesterId, status, aidPercent, decisionNote); PATCH /finance/student-controls (studentId, registrationOverride, reason). No backend implementation is included. Successful feedback requires a real server response.
+
+Records need explicit semesterId ownership to appear in semester payment/aid controls. No fallback assigns unscoped records to a selected semester. Account-wide restrictions still consider all overdue installments. Aid decisions accept 0–100 inclusive; rejection grants zero. Pricing is per major; course-specific overrides are no longer editable here. Existing rate records remain unchanged. If several historical major rates exist, all are shown with effective semesters rather than guessing a current rate.
+
+The future service must authorize Admin, check ownership, validate unique receipts and paid balances, resolve effective major pricing, apply semester-specific discounts, calculate tuition from registered credits, create four equal installments, assess each late installment penalty once, and clear restrictions only when all overdue tuition and penalties are settled. Registration overrides never release academic records. Frontend guards do not replace server authorization or transactional validation.

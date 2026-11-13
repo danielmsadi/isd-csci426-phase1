@@ -1,0 +1,33 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+tmp/
+backups/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.vercel/
+.aws/
+.codex/
+.agents/
+secrets/
+credentials/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Logs, caches, temporary files and backup copies
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+.cache/
+coverage/
+.DS_Store
+Thumbs.db

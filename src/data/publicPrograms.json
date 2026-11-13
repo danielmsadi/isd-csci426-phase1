@@ -1,0 +1,457 @@
+[
+  {
+    "id": "engineering-bachelor-of-science-in-biomedical-engineering",
+    "name": "Bachelor of Science in Biomedical Engineering",
+    "school": "engineering",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "engineering-computer-engineering",
+    "name": "Computer Engineering",
+    "school": "engineering",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "engineering-electrical-engineering",
+    "name": "Electrical Engineering",
+    "school": "engineering",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "engineering-electronics-engineering",
+    "name": "Electronics Engineering",
+    "school": "engineering",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "engineering-mechanical-engineering",
+    "name": "Mechanical Engineering",
+    "school": "engineering",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "engineering-surveying-engineering",
+    "name": "Surveying Engineering",
+    "school": "engineering",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "engineering-communications-engineering",
+    "name": "Communications Engineering",
+    "school": "engineering",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "engineering-industrial-engineering",
+    "name": "Industrial Engineering",
+    "school": "engineering",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "engineering-master-of-science-in-computer-and-communication-engineering",
+    "name": "Master of Science in Computer and Communication Engineering",
+    "school": "engineering",
+    "level": "Graduate",
+    "credits": 52
+  },
+  {
+    "id": "engineering-master-of-science-in-electrical-engineering",
+    "name": "Master of Science in Electrical Engineering",
+    "school": "engineering",
+    "level": "Graduate",
+    "credits": 52
+  },
+  {
+    "id": "engineering-master-of-science-in-electronics-engineering",
+    "name": "Master of Science in Electronics Engineering",
+    "school": "engineering",
+    "level": "Graduate",
+    "credits": 52
+  },
+  {
+    "id": "engineering-master-of-science-in-biomedical-engineering",
+    "name": "Master of Science in Biomedical Engineering",
+    "school": "engineering",
+    "level": "Graduate",
+    "credits": 52
+  },
+  {
+    "id": "engineering-master-of-science-in-mechanical-engineering",
+    "name": "Master of Science in Mechanical Engineering",
+    "school": "engineering",
+    "level": "Graduate",
+    "credits": 52
+  },
+  {
+    "id": "engineering-master-of-science-in-surveying-engineering",
+    "name": "Master of Science in Surveying Engineering",
+    "school": "engineering",
+    "level": "Graduate",
+    "credits": 52
+  },
+  {
+    "id": "engineering-master-of-science-in-industrial-engineering",
+    "name": "Master of Science in Industrial Engineering",
+    "school": "engineering",
+    "level": "Graduate",
+    "credits": 52
+  },
+  {
+    "id": "business-accounting",
+    "name": "Accounting",
+    "school": "business",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "business-economics",
+    "name": "Economics",
+    "school": "business",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "business-financial-sciences",
+    "name": "Financial Sciences",
+    "school": "business",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "business-hotel-and-tourism-management",
+    "name": "Hotel and Tourism Management",
+    "school": "business",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "business-business-management",
+    "name": "Business Management",
+    "school": "business",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "business-management-information-systems",
+    "name": "Management Information Systems",
+    "school": "business",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "business-marketing",
+    "name": "Marketing",
+    "school": "business",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "business-bachelor-of-business-administration-in-international-business-management",
+    "name": "Bachelor of Business Administration in International Business Management",
+    "school": "business",
+    "level": "Undergraduate",
+    "credits": 101
+  },
+  {
+    "id": "business-master-of-business-administration",
+    "name": "Master of Business Administration",
+    "school": "business",
+    "level": "Graduate",
+    "credits": 39
+  },
+  {
+    "id": "business-master-of-business-administration-liu-hochschule-worms-dual-degree",
+    "name": "Master of Business Administration (LIU-Hochschule Worms Dual Degree)",
+    "school": "business",
+    "level": "Graduate",
+    "credits": 56
+  },
+  {
+    "id": "pharmacy-pharmacy",
+    "name": "Pharmacy",
+    "school": "pharmacy",
+    "level": "Undergraduate",
+    "credits": 179
+  },
+  {
+    "id": "pharmacy-doctor-of-pharmacy",
+    "name": "Doctor of Pharmacy",
+    "school": "pharmacy",
+    "level": "Graduate",
+    "credits": 30
+  },
+  {
+    "id": "education-bachelor-in-basic-education-english",
+    "name": "Bachelor in Basic Education - English",
+    "school": "education",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "education-bachelor-in-basic-education-mathematics",
+    "name": "Bachelor in Basic Education - Mathematics",
+    "school": "education",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "education-bachelor-in-basic-education-sciences",
+    "name": "Bachelor in Basic Education - Sciences",
+    "school": "education",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "education-bachelor-of-teaching-english-as-a-foreign-language",
+    "name": "Bachelor of Teaching English as a Foreign Language",
+    "school": "education",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "education-bachelor-of-education-in-early-childhood-education",
+    "name": "Bachelor of Education in Early Childhood Education",
+    "school": "education",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "education-bachelor-of-translation-and-interpretation",
+    "name": "Bachelor of Translation and Interpretation",
+    "school": "education",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "education-master-of-education-in-teaching-english-as-a-foreign-language",
+    "name": "Master of Education in Teaching English as a Foreign Language",
+    "school": "education",
+    "level": "Graduate",
+    "credits": 39
+  },
+  {
+    "id": "education-master-of-education-in-educational-management",
+    "name": "Master of Education in Educational Management",
+    "school": "education",
+    "level": "Graduate",
+    "credits": 39
+  },
+  {
+    "id": "education-teaching-diploma-in-music",
+    "name": "Teaching Diploma in Music",
+    "school": "education",
+    "level": "Diploma",
+    "credits": 28
+  },
+  {
+    "id": "education-teaching-diploma-in-computer-science",
+    "name": "Teaching Diploma in Computer Science",
+    "school": "education",
+    "level": "Diploma",
+    "credits": 28
+  },
+  {
+    "id": "education-teaching-diploma-in-drama-and-performing-arts",
+    "name": "Teaching Diploma in Drama and Performing Arts",
+    "school": "education",
+    "level": "Diploma",
+    "credits": 28
+  },
+  {
+    "id": "education-teaching-diploma-in-economics",
+    "name": "Teaching Diploma in Economics",
+    "school": "education",
+    "level": "Diploma",
+    "credits": 28
+  },
+  {
+    "id": "education-teaching-diploma-in-languages",
+    "name": "Teaching Diploma in Languages",
+    "school": "education",
+    "level": "Diploma",
+    "credits": 28
+  },
+  {
+    "id": "education-teaching-diploma-in-mathematics",
+    "name": "Teaching Diploma in Mathematics",
+    "school": "education",
+    "level": "Diploma",
+    "credits": 28
+  },
+  {
+    "id": "education-teaching-diploma-in-physical-and-sports-education",
+    "name": "Teaching Diploma in Physical and Sports Education",
+    "school": "education",
+    "level": "Diploma",
+    "credits": 28
+  },
+  {
+    "id": "education-teaching-diploma-in-sciences",
+    "name": "Teaching Diploma in Sciences",
+    "school": "education",
+    "level": "Diploma",
+    "credits": 28
+  },
+  {
+    "id": "education-teaching-diploma-in-sociology",
+    "name": "Teaching Diploma in Sociology",
+    "school": "education",
+    "level": "Diploma",
+    "credits": 28
+  },
+  {
+    "id": "education-teaching-diploma-in-social-studies",
+    "name": "Teaching Diploma in Social Studies",
+    "school": "education",
+    "level": "Diploma",
+    "credits": 28
+  },
+  {
+    "id": "education-teaching-diploma-in-teaching-arts",
+    "name": "Teaching Diploma in Teaching Arts",
+    "school": "education",
+    "level": "Diploma",
+    "credits": 28
+  },
+  {
+    "id": "arts-sciences-advertising",
+    "name": "Advertising",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "arts-sciences-biochemistry",
+    "name": "Biochemistry",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "arts-sciences-biology",
+    "name": "Biology",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "arts-sciences-biomedical-science",
+    "name": "Biomedical Science",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 105
+  },
+  {
+    "id": "arts-sciences-chemistry",
+    "name": "Chemistry",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "arts-sciences-computer-science",
+    "name": "Computer Science",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "arts-sciences-information-technology",
+    "name": "Information Technology",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "arts-sciences-food-science-technology",
+    "name": "Food & Science Technology",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "arts-sciences-graphic-design",
+    "name": "Graphic Design",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "arts-sciences-interior-design",
+    "name": "Interior Design",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "arts-sciences-journalism",
+    "name": "Journalism",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "arts-sciences-mathematics",
+    "name": "Mathematics",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "arts-sciences-nutrition-dietetics",
+    "name": "Nutrition & Dietetics",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "arts-sciences-physics",
+    "name": "Physics",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 99
+  },
+  {
+    "id": "arts-sciences-public-relations",
+    "name": "Public Relations",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "arts-sciences-radio-tv",
+    "name": "Radio & TV",
+    "school": "arts-sciences",
+    "level": "Undergraduate",
+    "credits": 108
+  },
+  {
+    "id": "arts-sciences-master-s-of-science-in-computer-science",
+    "name": "Master's of Science In Computer Science",
+    "school": "arts-sciences",
+    "level": "Graduate",
+    "credits": 36
+  },
+  {
+    "id": "arts-sciences-master-s-of-science-in-food-technology",
+    "name": "Master's of Science In Food Technology",
+    "school": "arts-sciences",
+    "level": "Graduate",
+    "credits": 36
+  },
+  {
+    "id": "arts-sciences-master-s-of-science-in-mathematics",
+    "name": "Master's of Science in Mathematics",
+    "school": "arts-sciences",
+    "level": "Graduate",
+    "credits": 36
+  }
+]
