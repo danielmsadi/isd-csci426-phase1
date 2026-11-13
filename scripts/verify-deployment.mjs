@@ -18,9 +18,14 @@ try {
       await page.getByRole("heading", { level: 1 }).first().waitFor();
       assert(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), `Overflow: ${route}`);
     }
-    for (const route of ["/student", "/admin"]) {
-      await page.goto(new URL(route, baseURL).href);
+    for (const route of ["/student", "/student/registration", "/student/grades", "/admin", "/admin/students", "/admin/grade-management"]) {
+      const response = await page.goto(new URL(route, baseURL).href);
+      assert.equal(response.status(), 200, `Portal direct visit failed: ${route}`);
       await page.waitForURL("**/login");
+      await page.getByRole("heading", { name: "Welcome back." }).waitFor();
+      const refresh = await page.reload();
+      assert.equal(refresh.status(), 200, `Portal sign-in refresh failed: ${route}`);
+      await page.getByRole("heading", { name: "Welcome back." }).waitFor();
       assert.equal(await page.getByLabel("Preview role").count(), 0);
     }
     assert.deepEqual(errors, [], "Browser runtime errors");

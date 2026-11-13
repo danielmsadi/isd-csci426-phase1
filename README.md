@@ -2,7 +2,9 @@
 
 Phase 1 submission of an LIU-inspired university information and registration interface. The project combines a public academic guide with separate Student and Admin workspaces. It is an independent academic implementation, not an official university service.
 
-Repository: [isd-csci426-phase1](https://github.com/danielmsadi/isd-csci426-phase1) (private; assessor access must be granted). Live deployment is pending Vercel authorization.
+Repository: [isd-csci426-phase1](https://github.com/danielmsadi/isd-csci426-phase1) (private; assessor access must be granted).
+
+Live website: [isd-csci426-phase1.vercel.app](https://isd-csci426-phase1.vercel.app). Deployed to Vercel and verified without login cookies on desktop and mobile on November 13, 2026. Public routes and refreshes work; Student/Admin routes retain their existing production redirect to sign-in.
 
 ## Technologies and installation
 
@@ -37,6 +39,8 @@ The root `vercel.json` selects Vite, builds with `npm run build`, serves `dist`,
 4. Deploy, then open the generated URL. Check `/`, `/programs`, a program detail and `/login` on desktop and mobile; directly open and refresh these URLs. `/student` and `/admin` should redirect to `/login` in production.
 
 Alternatively, authenticate with `npx vercel login`, then run `npx vercel --prod` in this folder. Do not call the deployment verified until its actual URL is accessible and tested. See [submission verification and authorization steps](docs/submission-status.md).
+
+The current deployment was published with the CLI. Automatic deployments from GitHub are not connected yet: add GitHub under Vercel Account Settings → Authentication, then connect this repository in the Vercel project's Git settings or run `npx vercel git connect`.
 
 Configuration follows [Vercel's Vite SPA documentation](https://vercel.com/docs/frameworks/frontend/vite).
 

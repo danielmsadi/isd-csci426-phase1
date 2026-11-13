@@ -17,12 +17,22 @@ Prepared November 13, 2026.
 - All 36 unit tests passed.
 - All 20 existing browser tests passed (2.4 minutes, exit code 0) on the final run. The initial run also passed all cases but stalled during Windows-managed server shutdown; the final run used the same tests and configuration with the already running servers and server management disabled in a temporary config.
 - `scripts/verify-deployment.mjs` checks production direct visits, refreshes, headings, horizontal overflow, browser exceptions and Student/Admin redirects at 1440px and 390px widths. It initially exposed the course-catalog overflow, which was corrected.
-- Final production smoke check passed at both widths (exit code 0) against the local Vite preview. Hosted Vercel routing still requires verification after authorization and deployment.
+- Production smoke checks passed at both widths (exit code 0) against the local Vite preview and the live production URL. Live checks used fresh browser contexts without authentication cookies and verified direct visits, refreshes, layout and existing portal redirects.
 - README screenshots are actual local frontend captures. They do not demonstrate a hosted deployment.
 
-## Vercel authorization and remaining deployment
+## Verified Vercel deployment
 
-No Vercel authentication was found during preparation. No live deployment URL has been verified.
+Live website: https://isd-csci426-phase1.vercel.app
+
+Vercel project: `961scale/isd-csci426-phase1`. The authenticated CLI deployment reached `READY`, and the production alias was independently checked in desktop and mobile browsers on November 13, 2026. No Vercel login was needed to view the production alias. No backend or database changes were made.
+
+Automatic GitHub deployments remain unconnected. Vercel returned: "You need to add a Login Connection to your GitHub account first." To enable automatic updates:
+
+1. Open Vercel Account Settings → Authentication and connect the GitHub account `danielmsadi`.
+2. Open the project's Settings → Git and connect `danielmsadi/isd-csci426-phase1`, granting repository access when prompted; alternatively run `npx vercel git connect` from this folder.
+3. Until connected, publish changes with `npx vercel --prod`.
+
+## Redeployment instructions
 
 In PowerShell:
 
@@ -33,7 +43,7 @@ npx vercel login
 
 Accept installation if npm prompts, open the authorization URL displayed by the CLI, sign in to your Vercel account, and approve the device login. Return to the terminal and wait for confirmation. Never paste a token into the README or chat.
 
-After authorization, deploy with:
+The CLI is now authorized. For future deployments, run:
 
 ```powershell
 npx vercel --prod
@@ -44,10 +54,17 @@ Choose your account, create/link the `isd-csci426-phase1` project, use `./` as t
 Verify the actual production URL after deployment:
 
 ```powershell
-node scripts/verify-deployment.mjs https://YOUR-DEPLOYMENT.vercel.app
+node scripts/verify-deployment.mjs https://isd-csci426-phase1.vercel.app
 ```
 
 This uses installed Microsoft Edge. Set `PLAYWRIGHT_CHANNEL=chrome` for installed Chrome. Confirm the URL is accessible to the assessor; account-only Vercel protection may require changing deployment access settings.
+
+## Remaining submission actions
+
+- Submit the production URL and GitHub repository URL with the course's required deliverables.
+- Grant the assessor access to the private GitHub repository, or explicitly approve a visibility change before making it public.
+- Demonstrate the full Student/Admin interfaces locally using `npm run dev`; production intentionally has no preview bypass. If the rubric requires remotely accessible Student/Admin screens, the current production behavior does not satisfy that requirement and needs a separately approved frontend demo-access change.
+- Compare the submission with the actual CSCI426 Phase 1 rubric; no rubric was supplied, so additional report, diagram, team-information or presentation requirements have not been confirmed.
 
 The production Student/Admin routes intentionally redirect to `/login`; authentication and persistence are unavailable. For assessment of the complete portal UI, use `npm run dev` and the preview links, alongside the README screenshots. No backend or database work was performed.
 
